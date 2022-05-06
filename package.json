@@ -1,0 +1,14 @@
+{
+  "name": "ml-node-tools",
+  "version": "1.0.0",
+  "description": "Group ML tools for one install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "retext": "^8.1.0"
+  }
+}
