@@ -1,4 +1,4 @@
-const retext = require('retext')
+import {retext} from 'retext'
 
 module.exports = {
     retext
